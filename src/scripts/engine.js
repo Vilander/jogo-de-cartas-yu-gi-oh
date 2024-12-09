@@ -242,7 +242,7 @@ function init() {
 
     drawCards(5, playerSides.player1);
     drawCards(5, playerSides.computer);
-
+    //audio
     const bgm = document.getElementById("bgm");
     bgm.play();
 
